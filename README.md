@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm **Jair Flores-Farfan**
 
-<!--
-**jfloresf17/jfloresf17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Earth observation · Geospatial AI · Applied computer vision**
+[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat)][https://pe.linkedin.com/in/jairflores17]
+[![Hugging Face profile](https://img.shields.io/badge/Hugging%20Face-jfloresf-B45F06?style=flat&logo=huggingface)][https://huggingface.co/jfloresf]
+[![ORCID](https://img.shields.io/badge/ORCID-Researcher-448200?style=flat&logo=orcid)][https://orcid.org/0009-0009-2959-1899]
 
-Here are some ideas to get you started:
+## 📖 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌎 Passionate about geosciences, Earth observation, spatial data analysis, and computer vision.
+- 🔬 Researcher at [TIDOP, University of Salamanca](https://tidop.usal.es), based in Ávila, Spain.
+- 🎓 Bachelor's degree in Geographic Engineering from UNMSM, Peru, and an MSc in Artificial Intelligence from Universidad Internacional de Valencia (VIU).
+- 🛰️ Research Internship in [CubeSat Technology](https://www.aeroinedutech.in/programs/cubesat-technology).
+- 🌱 Currently exploring VLMs, multisensor Earth observation, and satellite systems.

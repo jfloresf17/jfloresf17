@@ -9,7 +9,7 @@
 ## 🧭 About Me
 
 - 🌎 Passionate about geosciences, Earth observation, spatial data analysis, and computer vision.
-- 🔬 Researcher at [TIDOP, University of Salamanca](https://tidop.usal.es), based in Ávila, Spain.
+- 🔬 Researcher at [TIDOP, University of Salamanca](https://tidop.usal.es) based in Avila, Spain.
 - 🎓 Bachelor's degree in Geographic Engineering from UNMSM (Peru), and an MSc in Artificial Intelligence from Universidad Internacional de Valencia (VIU).
 - 🛰️ Research Internship in [CubeSat Technology](https://www.aeroinedutech.in/programs/cubesat-technology).
 - 🌱 Currently exploring VLMs, multisensor Earth observation, and satellite systems.
